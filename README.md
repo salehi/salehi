@@ -9,19 +9,6 @@
 
 **[Website](https://salehi.github.io)** · **[Résumé](https://salehi.github.io/cv/)** · **[LinkedIn](https://www.linkedin.com/in/s4l3h1)** · **[Email](mailto:salehi1994@gmail.com)** · **[Docker Hub](https://hub.docker.com/u/s4l3h1)**
 
-### Latest public activity
-
-<!-- activity:start -->
-- `Oct 29` Commented on [#646](https://github.com/vyuldashev/laravel-queue-rabbitmq/pull/646#issuecomment-6507318077) in [vyuldashev/laravel-queue-rabbitmq](https://github.com/vyuldashev/laravel-queue-rabbitmq)
-- `Oct 16` Pushed 2 times to [meshcheck-android](https://github.com/salehi/meshcheck-android)
-- `Oct 16` Pushed to [meshcheck-agent](https://github.com/salehi/meshcheck-agent)
-- `Oct 14` Pushed to [meshcheck-android](https://github.com/salehi/meshcheck-android)
-- `Oct 12` Pushed 5 times to [tavazon](https://github.com/salehi/tavazon)
-- `Oct 3` Pushed to [mailer](https://github.com/salehi/mailer)
-- `Oct 2` Pushed to [android-emulator-farm](https://github.com/salehi/android-emulator-farm)
-- `Jan 1` Closed PR [#646](https://github.com/vyuldashev/laravel-queue-rabbitmq/pull/646) in [vyuldashev/laravel-queue-rabbitmq](https://github.com/vyuldashev/laravel-queue-rabbitmq)
-<!-- activity:end -->
-
 ### Favorite projects
 
 <table>
@@ -34,5 +21,3 @@
 <tr><td width="50%" valign="top"><a href="https://github.com/salehi/meshcheck-agent"><b>meshcheck-agent</b></a> <code>Go</code><br><sub>MeshCheck node agent: ping/TCP/HTTP/DNS/TLS/SMTP probes with signed results</sub></td><td width="50%" valign="top"><a href="https://github.com/salehi/nginx-cors-gate"><b>nginx-cors-gate</b></a> <code>Nginx</code><br><sub>Nginx CORS gateway that actually blocks unauthorized origins</sub></td></tr>
 <tr><td width="50%" valign="top"><a href="https://github.com/salehi/certbot-dns-arvancloud"><b>certbot-dns-arvancloud</b></a> <code>Python</code><br><sub>Certbot DNS-01 plugin for ArvanCloud wildcard certificates</sub></td><td width="50%"></td></tr>
 </table>
-
-<sub>Activity refreshes automatically every 6 hours.</sub>
