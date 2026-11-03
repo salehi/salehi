@@ -1,7 +1,7 @@
 <a href="https://salehi.github.io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img alt="salehi — Principal Engineer: DevOps, SRE, backend & networking" src="assets/banner-light.png" width="100%">
+    <img alt="salehi — Principal Engineer: AI, DevOps, SRE, backend & networking" src="assets/banner-light.png" width="100%">
   </picture>
 </a>
 
@@ -41,14 +41,5 @@
 <tr><td width="50%" valign="top"><a href="https://github.com/salehi/meshcheck-agent"><b>meshcheck-agent</b></a> <code>Go</code><br><sub>MeshCheck node agent: ping/TCP/HTTP/DNS/TLS/SMTP probes with signed results</sub></td><td width="50%" valign="top"><a href="https://github.com/salehi/nginx-cors-gate"><b>nginx-cors-gate</b></a> <code>Nginx</code><br><sub>Nginx CORS gateway that actually blocks unauthorized origins</sub></td></tr>
 <tr><td width="50%" valign="top"><a href="https://github.com/salehi/certbot-dns-arvancloud"><b>certbot-dns-arvancloud</b></a> <code>Python</code><br><sub>Certbot DNS-01 plugin for ArvanCloud wildcard certificates</sub></td><td width="50%"></td></tr>
 </table>
-
-### Toolbox
-
-**Infrastructure** Linux · Docker · Nginx · HAProxy · SSH · automation  
-**Delivery** GitLab CI/CD · Jenkins · test / staging / production environments  
-**Observability** Prometheus · Grafana · Graylog · Netdata · Elasticsearch  
-**Networking** TCP/IP · DNS · TLS · HTTP · WebRTC · STUN/TURN · reverse proxies  
-**Engineering** Go · Python · Django · Starlette / FastAPI · REST APIs  
-**Reliability** high availability · failure isolation · SPOF reduction · monitoring · hardening
 
 <sub>Heatmap and activity refresh automatically every 6 hours.</sub>
