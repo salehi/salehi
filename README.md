@@ -9,14 +9,7 @@
 
 **[Website](https://salehi.github.io)** · **[Résumé](https://salehi.github.io/cv/)** · **[LinkedIn](https://www.linkedin.com/in/s4l3h1)** · **[Email](mailto:salehi1994@gmail.com)** · **[Docker Hub](https://hub.docker.com/u/s4l3h1)**
 
-### Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/graph-dark.svg">
-  <img alt="Contribution heatmap for the last 12 months" src="assets/graph-light.svg" width="100%">
-</picture>
-
-#### Latest public activity
+### Latest public activity
 
 <!-- activity:start -->
 - `Oct 29` Commented on [#646](https://github.com/vyuldashev/laravel-queue-rabbitmq/pull/646#issuecomment-6507318077) in [vyuldashev/laravel-queue-rabbitmq](https://github.com/vyuldashev/laravel-queue-rabbitmq)
@@ -42,4 +35,4 @@
 <tr><td width="50%" valign="top"><a href="https://github.com/salehi/certbot-dns-arvancloud"><b>certbot-dns-arvancloud</b></a> <code>Python</code><br><sub>Certbot DNS-01 plugin for ArvanCloud wildcard certificates</sub></td><td width="50%"></td></tr>
 </table>
 
-<sub>Heatmap and activity refresh automatically every 6 hours.</sub>
+<sub>Activity refreshes automatically every 6 hours.</sub>
